@@ -68,9 +68,9 @@
   },
   "spec": 2,
   "background": {
-    "blur": 10,
+    "blur": 5,
     "url": "https://raw.githubusercontent.com/shxzu/personal-bunny-theme/main/theme_BG/background.jpg",
-    "alpha": 40,
-    "color": "#0A0A0A"
+    "alpha": 50,
+    "color": "#FFFFFF"
   }
 }
